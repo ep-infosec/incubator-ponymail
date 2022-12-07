@@ -1,0 +1,272 @@
+/*
+ Licensed to the Apache Software Foundation (ASF) under one or more
+ contributor license agreements.  See the NOTICE file distributed with
+ this work for additional information regarding copyright ownership.
+ The ASF licenses this file to You under the Apache License, Version 2.0
+ (the "License"); you may not use this file except in compliance with
+ the License.  You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+*/
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+a:active, a:focus {
+  color: #268bd2;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+code,
+kbd,
+pre {
+  font-family: monospace, serif;
+  font-size: 1em;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+small {
+  font-size: 80%;
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+legend {
+  border: 0;
+  padding: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+}
+
+button,
+input {
+  line-height: normal;
+}
+
+button,
+
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+textarea {
+  overflow: auto;
+  vertical-align: top;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+pre,
+code {
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+html {
+  background-color: #073642;
+  color: #839496;
+  margin: 1em;
+}
+
+body {
+  background-color: #002b36;
+  margin: 0 auto;
+  border: 1pt solid #586e75;
+  padding: 1em;
+}
+
+.well {
+  background-color: #586e75;
+}
+
+.well li {
+  background-color: #44423F;
+}
+
+.well li:hover {
+  background-color: #54524F;
+}
+
+.bubble-info, .bubble-warning, .bubble-danger, .bubble-success, .bubble-primary, .bubble-topic {
+  background: #2D2C2B !important;
+  color: #e5b900;
+}
+
+.reply {
+  background-color: #002b36;
+  border: 1pt solid #586e75;
+  box-shadow: 5pt 5pt 8pt #073642;
+  color: #839496;
+  padding: 1em;
+}
+
+#stats {
+  background-color: #586e75;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1pt solid #889ea5;
+}
+
+code {
+  background-color: #073642;
+  padding: 2px;
+}
+
+a {
+  color: #b58900;
+}
+
+a:visited {
+  color: #cb4b16;
+}
+
+a:hover {
+  color: #cb4b16;
+}
+
+h1 {
+  color: #d33682;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #859900;
+}
+
+pre {
+  background-color: #002b36;
+  color: #839496;
+  border: 1pt solid #586e75;
+  padding: 1em;
+  box-shadow: 5pt 5pt 8pt #073642;
+}
+
+pre code {
+  background-color: #002b36;
+}
+
+h1 {
+  font-size: 2.8em;
+}
+
+h2 {
+  font-size: 2.4em;
+}
+
+h3 {
+  font-size: 1.8em;
+}
+
+h4 {
+  font-size: 1.4em;
+}
+
+.navbar {
+  background: #374C44 !important;
+  color: #DDD !important;
+  margin-top: -1em;
+}
+
+.active a {
+  background: #360 !important;
+  color: #EEE !important;
+}
+
+.nav a:hover {
+  color: #EEE !important;
+}
+
+.nav .open a {
+  background: #360 !important;
+  color: #EEE !important;
+}
+
+.nav .open a:hover {
+  background: #360 !important;
+  color: #FFF !important;
+  font-weight: bold;
+}
+
+.footer {
+  background: #374C44 !important;
+  color: #DDD !important;
+  width: calc(100% - 2em) !important;
+}
+
+.from_name {
+  color: #EEE;
+  font-weight: bold;
+}
